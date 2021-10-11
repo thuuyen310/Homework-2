@@ -1,0 +1,112 @@
+#menu{
+    height: 1.68rem;
+    display: flex;
+    margin-top: 0.25em;
+    margin-right:3.75rem;
+    justify-content: right;
+}
+a{
+    text-decoration: none;
+    padding: 0rem 1.035rem;
+    text-align: right;
+    font-family:Arial;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 20px;
+    line-height: 29.38px;
+    letter-spacing:  0.01em;
+    color: #21243D;
+}
+a:hover{
+    color:#FF6464
+}
+h1{
+    margin-top:120px;
+    margin-left: 255px;
+    width:480px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    color: #21243D;
+}
+span{
+    border-radius: 16px;
+    background-color:#FF6464;
+    color:white;
+    font-family: Arial;
+    font-style: normal;
+    font-weight:780;
+    font-size: 18px;
+    line-height: 60px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+strong{
+    font-family: Arial;
+    font-style: normal;
+    font-weight:normal;
+    font-size: 18px;
+    line-height: 60px;
+    color:#21234D;
+}
+h2{
+    margin-left: 255px;
+}
+h3{
+    margin-left: 255px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color:#21234D;
+}
+p{
+    margin-left: 255px;
+    margin-right: 236px;
+    padding-bottom: 20px;
+    width:650px;
+    size:16px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 510;
+    line-height: 23.5px;
+    color: #000000;
+}
+h4{
+    margin-left: 255px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 10px;
+    color:#21234D;
+}
+.pic{
+    margin-left:255px;
+    width: 715px;
+    height: 460px;
+    margin-right:235px;
+    margin-bottom: 30px;
+}
+footer{
+    padding-top:55px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+h5{
+    color: #21243D;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 420;
+    font-size: 14px;
+    line-height: 21.5px;
+}
+br+img{
+    width:110%;
+}
+
