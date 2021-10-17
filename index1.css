@@ -1,0 +1,100 @@
+#menu {
+  height: 1.68rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 0.25em;
+  margin-right: 3.75rem;
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+  margin-bottom: 5.7rem;
+}
+
+a {
+  text-decoration: none;
+  padding: 0rem 1.035rem;
+  text-align: right;
+  font-weight: 550;
+  font-size: 1.25em;
+  line-height: 29.38px;
+  letter-spacing: 0.01em;
+  font-family: Arial;
+  color: #21243D;
+  font-style: normal;
+}
+
+a:hover {
+  color: #FF6464;
+}
+
+h1 {
+  font-family: Arial;
+  font-weight: 800;
+  font-size: 2.75em;
+  color: #21243D;
+  margin: 0 0 2.5rem 14.69rem;
+}
+
+.content {
+  margin: 0 0 2.5rem 14.69rem;
+  font-family: Arial;
+  text-align: left;
+}
+
+.content h2 {
+  color: #21243D;
+  font-size: 1.875em;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.content span {
+  color: #FFFFFF;
+  background-color: #142850;
+  width: 5.125em;
+  height: 1.95em;
+  border-radius: 16px;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 1.125em;
+  padding-top: 0.05em;
+  padding-bottom: 0.1em;
+}
+
+.content strong {
+  color: #8695A4;
+  font-weight: normal;
+  font-size: 1.15em;
+}
+
+.content p {
+  font-family: Arial;
+  color: #21243D;
+  width: 55%;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+#content--mobile {
+  display: none;
+}
+
+hr {
+  width: 63%;
+  border: 0.01px solid #E0E0E0;
+  margin-bottom: 2.8em;
+}
+
+footer {
+  text-align: center;
+  margin-top: 7em;
+  margin-bottom: 4em;
+}
+
+footer div {
+  margin-top: 1.5em;
+  color: #21243D;
+  font-weight: 500;
+}
+/*# sourceMappingURL=index1.css.map */
